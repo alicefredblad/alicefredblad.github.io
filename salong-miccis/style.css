@@ -6,15 +6,12 @@ LJUSROSA:#dac7d2
 SVARTGRÅ:#494145
 
 */
-@font-face{
-    src:"fonter/Asap-Refular.otf";
-    font-family:asap;}
-@font-face{
-    src:"fonter/Asap-bold.otf";
-    font-family:asap ;}
+
+@import url('https://fonts.googleapis.com/css?family=Asap');
+
 
 body{
-    font-family:asap;
+    font-family: 'Asap', sans-serif;
     margin:0;
     background-color:white;
     display:block;
@@ -76,7 +73,7 @@ p{
 
 .nav a{
     text-decoration: none;
-    font-family:asap;
+    font-family: 'Asap', sans-serif;
     font-size:1.3em;
     text-transform: uppercase;
     color:#db4c96;

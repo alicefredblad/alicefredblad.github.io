@@ -43,7 +43,7 @@ p{
     .tophead img{
     width:140px;
     min-width:110px;    
-    margin:3.5% 0 1% 12%;
+    margin:3.5% 0 1% 10%;
     padding-left:4%;
     padding-bottom: 1%;
     float:left;
@@ -602,7 +602,7 @@ tbody a{
 .tophead img{
 width:110px;
 padding:40px 10px 30px 30px;
-margin-left:25px;}  
+margin-left:15px;}  
     
 .nav {
     display:inline;float:left;}

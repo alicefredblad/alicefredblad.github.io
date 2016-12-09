@@ -1,5 +1,6 @@
 
-
+@import url('https://fonts.googleapis.com/css?family=Asap:700');
+@import url('https://fonts.googleapis.com/css?family=Squada+One');
    
 @font-face {
     font-family: "phosphor";
@@ -72,7 +73,7 @@ nav {
       padding-top:100px;}
 
 .container h2{
-      font-family: "phosphor", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-family: "phosphor", 'Squada One', cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       font-size: 3em;
       color:black;
       text-align: center;
@@ -132,14 +133,14 @@ footer p{
 .artist h4{
       color:#96C11F;
       font-size: 1.6em;
-      font-family: "asap", Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-family: 'Asap', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       text-transform: uppercase;
       margin-bottom:5px;
         }
 
 .artist p{
     font-size: 1.1em;
-    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Asap', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
 
 
@@ -172,7 +173,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: "asap",Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Asap', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
                   } 
 
 .nya{  
@@ -190,7 +191,7 @@ a:link, a:visited {
   text-align: center;
   text-transform: uppercase;
   font-size: 1.1em;
-  font-family: 'asap', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Asap', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   background-color: #96C11F;
   }
 
@@ -206,7 +207,7 @@ a:link, a:visited {
     height:70px;
     background-color:#96C11F;
     color:white;
-    font-family:"asap",Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Asap', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
     text-align: center;
     padding:1px;}
@@ -247,7 +248,7 @@ a:link, a:visited {
     padding-top:10px;
     margin-bottom: 25px;
     text-transform: uppercase;
-    font-family:"asap",Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Asap',Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
 .info-ram{
@@ -311,7 +312,7 @@ a:link, a:visited {
     text-align: left;
     color:#96C11F;
     font-size: 1.6em;
-    font-family: "asap", Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Asap',Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
     }
 
@@ -328,7 +329,7 @@ a:link, a:visited {
     text-align: center;
     display:block;
     margin-top:15px;
-    font-family:"asap",Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Asap',Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
 }
 
@@ -382,7 +383,7 @@ a:link, a:visited {
     text-align: center;
     display:block;
     margin-top:15px;
-    font-family:"asap",Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Asap',Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
 }
 
